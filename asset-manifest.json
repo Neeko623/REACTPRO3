@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/REACTPRO3/static/css/main.d25199a4.chunk.css",
+    "main.js": "/REACTPRO3/static/js/main.53986a81.chunk.js",
+    "main.js.map": "/REACTPRO3/static/js/main.53986a81.chunk.js.map",
+    "runtime-main.js": "/REACTPRO3/static/js/runtime-main.ee2bf220.js",
+    "runtime-main.js.map": "/REACTPRO3/static/js/runtime-main.ee2bf220.js.map",
+    "static/js/2.102548e6.chunk.js": "/REACTPRO3/static/js/2.102548e6.chunk.js",
+    "static/js/2.102548e6.chunk.js.map": "/REACTPRO3/static/js/2.102548e6.chunk.js.map",
+    "index.html": "/REACTPRO3/index.html",
+    "precache-manifest.48d73cd588a6f863d94f02d318e0aad3.js": "/REACTPRO3/precache-manifest.48d73cd588a6f863d94f02d318e0aad3.js",
+    "service-worker.js": "/REACTPRO3/service-worker.js",
+    "static/css/main.d25199a4.chunk.css.map": "/REACTPRO3/static/css/main.d25199a4.chunk.css.map",
+    "static/js/2.102548e6.chunk.js.LICENSE.txt": "/REACTPRO3/static/js/2.102548e6.chunk.js.LICENSE.txt",
+    "static/media/Budget-Tracker.jpg": "/REACTPRO3/static/media/Budget-Tracker.a19f2b67.jpg",
+    "static/media/Dog-Dash.jpg": "/REACTPRO3/static/media/Dog-Dash.87bf94c4.jpg",
+    "static/media/Milestone.jpg": "/REACTPRO3/static/media/Milestone.35b292f5.jpg",
+    "static/media/Poke-Parte.jpg": "/REACTPRO3/static/media/Poke-Parte.be515884.jpg",
+    "static/media/Run-Buddy.jpg": "/REACTPRO3/static/media/Run-Buddy.938f8fe0.jpg",
+    "static/media/cover-image.jpg": "/REACTPRO3/static/media/cover-image.142fd461.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee2bf220.js",
+    "static/js/2.102548e6.chunk.js",
+    "static/css/main.d25199a4.chunk.css",
+    "static/js/main.53986a81.chunk.js"
+  ]
+}
